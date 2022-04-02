@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odin688
-- 🌱 Currently learning java
+- 🌱 Currently learning java OOP
 - 📫 Discord : Odin#8555
 
 <!---
